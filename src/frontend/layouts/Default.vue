@@ -39,7 +39,7 @@
         </q-item>
         <q-item :to="{ name: 'bookings' }" exact>
           <q-item-side icon="flight" />
-          <q-item-main label="All My Bookings" sublabel="Bookings" />
+          <q-item-main label="All of My Bookings" sublabel="Bookings" />
         </q-item>
       </q-list>
     </q-layout-drawer>
